@@ -1,1 +1,1 @@
-# erc20-test-token
+# ERC20-test-token
